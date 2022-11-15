@@ -1,2 +1,51 @@
 # prework-study-guide
 Boot Camp Prework Study Guide for Students
+# <Prework Study Guide Webpage>
+
+## Description
+
+This Prework Study Guide was created for bootcamp students, like myself, who were going through the Prework. This bible of Prework knowledge contains notes on HTML, CSS, Git and JavaScript. It describes and showcases the progression of what is behind a web page and a snippet of the elements that are necessary to create and fix, debug, throughout the programming of a webpage. 
+
+## Installation
+
+N/A
+
+## Usage
+
+Reviewing the notes in each section to use this Prework Study Guide effectively. For suggestions on what to study first, open the Chrome DevTools by pressing command+option+I on macOS or Control+shift+I on windows. A console panel will open on your webpage either below or to the side of the main frame in the browser. This showcases the list of topics that I have worked through and learned from the prework along with a suggestion on which topic to study first. 
+
+/* 
+To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+
+![alt text](assets/images/screenshot.png) 
+/*
+
+## Credits
+
+N/A
+
+## License
+
+Please refer to the LICENSE in the repo
+
+---
+
+🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+
+## Badges
+
+![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+
+Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+
+## Features
+
+If your project has a lot of features, list them here.
+
+## How to Contribute
+
+If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+
+## Tests
+
+Go the extra mile and write tests for your application. Then provide examples on how to run them here.
